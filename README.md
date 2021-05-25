@@ -83,15 +83,15 @@ Desenvolva uma aplicação **React** que seja composta por um `conjunto de compo
 
 ## Data de Entrega
 
-  - Serão `X` dias de projeto.
-  - Data de entrega para avaliação final do projeto: `DD/MM/YYYY - 14:00h`.
+  - Será 1 dia de projeto.
+  - Data de entrega para avaliação final do projeto: `02/06/2021 - 14:00h`.
 
 # Instruções para entregar seu projeto
 
 ## Antes de começar a desenvolver
 
 1. Clone o repositório
-  * `git clone https://github.com/tryber/sd-011-project-movie-cards-library.git`.
+  * `git clone git@github.com:tryber/sd-011-project-movie-cards-library.git`.
   * Entre na pasta do repositório que você acabou de clonar:
     * `cd sd-011-project-movie-cards-library`
 
