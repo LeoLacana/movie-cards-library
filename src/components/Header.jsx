@@ -3,7 +3,7 @@ import React from 'react';
 class Header extends React.Component {
   render() {
     return (
-      <header className="page-title">
+      <header>
         <h1>
           Movie Cards Library
         </h1>
