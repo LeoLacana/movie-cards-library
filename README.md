@@ -1,3 +1,6 @@
+# Projeto Movie Cards Library
+  - Biblioteca de cartões de filmes utilizando React
+
 # Habilidades Utilizadas
   - Gerenciador de pacotes
   - **React**
